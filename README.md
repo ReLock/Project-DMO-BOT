@@ -1,8 +1,7 @@
 # Project-DMO-BOT
 DIGIMON MASTERS ONLINE ROBOT
 
-<h1>CHANGE LOG</h1>
-<hr />
+<h3><u>CHANGE LOG</u></h3>
 <h4>Version-0.1</h4>
 <p>Add Application</p>
 <h4>Version-0.2</h4>
