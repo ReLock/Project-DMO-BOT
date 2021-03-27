@@ -7,8 +7,8 @@ DIGIMON MASTERS ONLINE ROBOT
 <p>Add Application</p>
 <h4>Version-0.2</h4>
 <ol>
-  <li>1. Add Custom Screen</li>
-  <li>2. Fix JRE not found .exe</li>
+  <li>Add Custom Screen</li>
+  <li>Fix JRE not found .exe</li>
 </ol>
 
 <H1>HOW TO</h1>
