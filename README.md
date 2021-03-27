@@ -7,6 +7,7 @@ DIGIMON MASTERS ONLINE ROBOT
 <h4>Version-0.2</h4>
 <ol>
   <li>Add Custom Screen</li>
+  <li>Add Icon window</li>
   <li>Fix JRE not found .exe</li>
 </ol>
 
